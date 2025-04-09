@@ -1,6 +1,6 @@
 <h1>AI Tools List - The Ultimate Artificial Intelligence Software List</h1>
 <p><strong>250+ Best AI Apps for Writing, Design, Video, Productivity, Marketing, and More</strong></p>
-
+<p><strong>The list gets updated as soon as we test and review a new AI Tool.</strong></p>
 <p>Welcome to the most complete and carefully curated <strong>AI Tools List</strong> for 2025! Whether you're a creator, marketer, student, startup, or just AI-curious, this repo gives you instant access to over <strong>250 of the best AI tools</strong> available right now — all organized by category for easy browsing.</p>
 
 <p>We’ve tested and handpicked the most useful AI apps for writing, editing, design, video creation, productivity, coding, marketing, voice, chatbots, education, and beyond. Each tool includes a short description and a direct link, so you can explore exactly what you need — without wasting time on fluff.</p>
@@ -8,12 +8,6 @@
 <p>Whether you’re looking for an <strong>AI writing assistant</strong>, <strong>image generator</strong>, <strong>SEO optimizer</strong>, or an <strong>AI video editor</strong>, this list covers it all. We also highlight the best AI tool combos, top affiliate programs with recurring payouts, and editor’s choice picks to help you get the most out of AI right away.</p>
 
 <p>This list is constantly evolving as new tools launch and old ones improve. Feel free to <strong>bookmark</strong>, ⭐ <strong>star this repo</strong>, or share it with your team!</p>
-
-Perfect! I’ll begin curating 250+ new AI tools not already listed, enhancing existing ones, and organizing them across diverse categories. I’ll use simple HTML formatting with H1s and H2s, minimalist 20-word descriptions, visual emphasis, and 'best combo' suggestions for each category.
-
-I’ll also add a prominent Editor’s Choice section up top, highlighting tools with top-tier affiliate programs offering the highest recurring payouts.
-
-I’ll let you know as soon as the updated and expanded list is ready for your review.
 
 <h2>Editor's Choice</h2>
 <ul>
